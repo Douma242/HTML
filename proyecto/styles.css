@@ -1,0 +1,33 @@
+.container{
+	background-image: url(images/17195455_1328520930561284_1182869966_o.jpg);
+	border-radius:  10px;
+	position: relative;
+	height:300px;
+}
+
+.title1{
+	position: absolute;
+	top: 10%;
+	left: 35%;
+	font-size: 40px;
+}
+
+.jas{
+	position: absolute;
+	top: 0px;
+	right: 0px
+}
+.start{
+	background-color:  #00cc00;
+	border-radius: 5px;
+}
+.email{
+	background-color: white;
+	border-radius: 5px
+
+}
+.top{
+	position: absolute;
+	top: 0px;
+	left: 5%
+}
