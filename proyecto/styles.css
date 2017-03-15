@@ -1,5 +1,5 @@
 .container{
-	background-image: url(images/17195455_1328520930561284_11828699667_o.jpg);
+	background-image: url(images/17198101_1490374284320839_1533005768_n.jpg);
 	border-radius:  10px;
 	position: relative;
 	height:600px;
@@ -18,28 +18,36 @@
 .jas{
 	position: absolute;
 	top: 25px;
-	right: 10%
+	right: 10%;
+	color: white
 }
-.start{
+.button{
 	position:absolute;
 	background-color:  #00cc00;
 	border-radius: 5px;
 	top:45%;
-	right:385px;
+	right:340px;
+	color: white;
+	height: 40px;
+	width: 90px
+
 }
 .email{
 	position: absolute;
 	background-color: white;
 	border-radius: 5px;
-	top :48%;
-	right:450px;
+	top :45%;
+	right:440px;
+	height: 40px;
+	width: 250px
 
 }
 .top{
 	position: absolute;
 	top: 0px;
 	left: 20%;
-	font-size: 30px
+	font-size: 30px;
+	color: white
 }
 .title2{
 	position: absolute;
@@ -47,6 +55,7 @@
 	right: 300px;
 	height: 50px;
 	width: 300px;
+	color: white
 }
 
 .container2{
@@ -58,6 +67,17 @@
 .yas{
 	color: lime;
 	font-size: 50px;
-	left: 20%;
+	left: 10%;
 	position: absolute;
+}
+.f{
+	color: #01DF01;
+}
+ 
+.frase{
+	position: absolute;
+	font-size: 20px;
+	left: 10%;
+	top: 40%
+
 }
